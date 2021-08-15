@@ -1,6 +1,9 @@
 
+![Alejandro romero2](https://user-images.githubusercontent.com/64499754/129489368-9cf0b140-143c-464d-a7b4-00c7b7afe333.png)
 
-### Welcome to my GitHub!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+# Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--
@@ -18,10 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Tools I Use 🔧
-<div>
+## About me :man_technologist:
+I am a Full Stack JavaScript developer specialized in the MERN stack, looking forward to learning continuously and challenging myself within this industry. The combination of my Business Administration Bachelor's degree and my Financial Engineering Master's degree led me to work in the Financial sector, where the use of Python regularly brought me closer to the world of coding and made me realize that I loved it. Due to this, I decided to fully commit to programming and completed Plataforma 5 Coding Bootcamp. Currently, I am looking for a job as a Full Stack developer that allows me to materialize my knowledge, grow within this profession and find interesting challenges to solve.
 
-I use quite a few tools, here are few of them. I add new and remove them frequently.
+## Tools I Use 🔧
+<div>
 
 ##### Languages
 
@@ -83,25 +87,13 @@ That's it.
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-VIM-05122A?style=flat&logo=neovim)
 
-## Reach Me
+## Contact Me
 
-<p id="socialIcons" align="center">
-    <a href="mailto:manigandan.jeff@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/manigandan.jeff-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/manigandand" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-manigandand-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/4201748/manigandand" alt="StackOverflow">
-        <img src="https://img.shields.io/badge/-manigandand-FE7A16?style=flat-square&logo=stack-overflow&logoColor=FE7A16&labelColor=white" /></a>
-    <a href="https://hub.docker.com/u/manigandanjeff" alt="Dockor">
-        <img src="https://img.shields.io/badge/-manigandanjeff-2496ed?style=flat-square&logo=docker&logoColor=white" /></a>
-    <a href="https://medium.com/@manigandand" alt="Medium">
-        <img src="https://img.shields.io/badge/-@manigandand-03a57a?style=flat-square&logo=Medium&labelColor=000000" /></a>
-    <a href="https://twitter.com/manigandanjeff" alt="Twitter">
-        <img src="https://img.shields.io/badge/-manigandanjeff-1DA1F2?style=flat-square&logo=twitter&logoColor=1DA1F2&labelColor=000" /></a>
-    <a href="https://instagram.com/manigandanjeff" alt="Instagram">
-        <img src="https://img.shields.io/badge/-manigandanjeff-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-    <a href="https://manigandand.com" alt="website">
-        <img src="https://img.shields.io/badge/-manigandand.com-242424?style=flat-square&logo=circle&logoColor=white" /></a>
+<p>
+    <a href="mailto:ajromeroch@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/alejandro-romero-chavez" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
