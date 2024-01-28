@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me :man_technologist:
-I am a Full Stack JavaScript developer specialized in the MERN stack, looking forward to learning continuously and challenging myself within this industry. The combination of my Business Administration Bachelor's degree and my Financial Engineering Master's degree led me to work in the Financial sector, where the use of Python regularly brought me closer to the world of coding and made me realize that I loved it. Due to this, I decided to fully commit to programming and completed Plataforma 5 Coding Bootcamp. Currently, I am looking for a job as a Full Stack developer that allows me to materialize my knowledge, grow within this profession and find interesting challenges to solve.
+Full Stack Developer / Flutter Developer with 2+ years of professional experience in the field and a strong financial background because of my former career as an FX Trader. Keen eye for detail, strong commitment to project quality, and innovative problem solver. Track record of developing efficient web applications in Javascript using React, NodeJS, and Sequelize, as well as mobile applications using Flutter. Worked with cross-functional teams, and managed the software development life cycle for major projects. Ability to quickly analyze complex situations, develop effective solutions, and clearly communicate multifaceted information with customers and other professionals at all levels.
 
 ## Tools I Use 🛠
 <div>
@@ -36,7 +36,7 @@ I am a Full Stack JavaScript developer specialized in the MERN stack, looking fo
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NodeJs" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 
 ##### Databases
 
