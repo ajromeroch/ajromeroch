@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ## About me :man_technologist:
-Full Stack Developer / Flutter Developer with 2+ years of professional experience in the field and a strong financial background because of my former career as an FX Trader. Keen eye for detail, strong commitment to project quality, and innovative problem solver. Track record of developing efficient web applications in Javascript using React, NodeJS, and Sequelize, as well as mobile applications using Flutter. Worked with cross-functional teams, and managed the software development life cycle for major projects. Ability to quickly analyze complex situations, develop effective solutions, and clearly communicate multifaceted information with customers and other professionals at all levels.
+Software Engineer with about three years of professional experience in the field and a strong financial background as a former FX trader. Strong commitment to project quality, detail-oriented, able to work under pressure, and problem solver. Track record of creating efficient, scalable, and real-world web applications in conjunction with cross-functional teams. Excellent analytical and debugging skills. Fluent in English and Spanish.
 
 ## Tools I Use 🛠
 <div>
